@@ -4,3 +4,8 @@ Seine Mutter starb bei seiner Geburt und so übernahm der Schmied Urus die Veran
 Schon in frühen Jahren zeigte sich, dass Tsadok sich weder für das Gebet, noch die Zauberei der Priester oder das Handwerk seines Ziehvaters interessierte.
 Sein einziges Interesse galt dem Schwertkampf.
 
+## Charaktereigenschaften
+* liebt den Schwertkampf
+* kämpft fair
+* immer auf der Suche nach einer Herausforderung
+
