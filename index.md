@@ -9,3 +9,4 @@ Sein einziges Interesse galt dem Schwertkampf.
 * kämpft fair
 * immer auf der Suche nach einer Herausforderung
 
+> Ich hoffe, du bist so stark wie du dich gibst.
