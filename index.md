@@ -10,3 +10,5 @@ Sein einziges Interesse galt dem Schwertkampf.
 * immer auf der Suche nach einer Herausforderung
 
 > Ich hoffe, du bist so stark wie du dich gibst.
+
+<img src ="https://i.pinimg.com/originals/db/6c/9b/db6c9b67c9af74bcd4e4cdace27f95c6.png"/>
